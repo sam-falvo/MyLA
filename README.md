@@ -75,7 +75,7 @@ The meaning of the bits are as follows:
 ## Origins
 
 MYLA is actually a modified
-[KIA core](Registe://github.com/KestrelComputer/kestrel/tree/master/cores/KIA)
+[KIA core](https://github.com/KestrelComputer/kestrel/tree/master/cores/KIA)
 which is more generic and configurable,
 and which has the built-in serial to parallel converter removed and the raw parallel interface exposed.
 
